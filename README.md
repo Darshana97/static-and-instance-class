@@ -1,0 +1,1 @@
+# static-and-instance-class
